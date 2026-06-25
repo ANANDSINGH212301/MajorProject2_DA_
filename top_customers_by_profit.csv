@@ -1,0 +1,6 @@
+Customer_ID,Segment,Region,total_orders,lifetime_sales,lifetime_profit
+CUST-00964,Corporate,West,9,19433.32,3964.04
+CUST-00971,Small Business,West,8,17309.81,3317.26
+CUST-00751,Corporate,South,6,16888.29,3294.5
+CUST-00742,Corporate,East,8,18160.9,3237.88
+CUST-00217,Consumer,South,7,12714.63,3095.95
